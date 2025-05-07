@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "deploy": "yarn firebase deploy"
   },
   "dependencies": {
     "@splidejs/splide": "^4.1.4",
