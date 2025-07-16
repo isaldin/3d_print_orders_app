@@ -4,4 +4,6 @@ export type Model = {
     linkToModelPage: string
     price: number
     photoUrls: string[]
+    filamentUsage: number
+    printTime: number
 }

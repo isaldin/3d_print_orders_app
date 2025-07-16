@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "three-d-printing-orders-app"
-  }
+    "default": "three-d-printing-orders-app",
+    "prod": "three-d-printing-orders-app"
+  },
+  "targets": {},
+  "etags": {}
 }

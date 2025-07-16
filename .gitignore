@@ -14,3 +14,7 @@ dist
 .idea
 
 .env
+
+/cloud_functions/node_modules
+/cloud_functions/lib
+/cloud_functions/firebase-debug.log

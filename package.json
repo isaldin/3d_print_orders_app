@@ -9,7 +9,7 @@
   "dependencies": {
     "@splidejs/splide": "^4.1.4",
     "@splidejs/vue-splide": "^0.6.12",
-    "firebase": "^11.6.1",
+    "firebase": "^11.7.1",
     "reflect-metadata": "^0.2.2",
     "sass-embedded": "^1.87.0",
     "tsyringe": "^4.10.0",
